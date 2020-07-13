@@ -12,7 +12,8 @@ Pod::Spec.new do |s|
   s.summary          = 'A short description of FFCategoryKit.'
 
 # This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
+#   * Think: What
+it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
@@ -21,7 +22,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Zouyh/FFCategoryKit'
+  s.homepage         = 'https://github.com/dkzyh/FFCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Zouyh' => '360370709@qq.com' }
